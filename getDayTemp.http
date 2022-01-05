@@ -1,0 +1,2 @@
+GET http://127.0.0.1:8002/api/weather?day=2022-01-05
+X-AUTH-TOKEN: e2d852eeace1ea1294e143bbd733e5ss
